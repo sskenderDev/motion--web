@@ -1,0 +1,10 @@
+@media (max-width: 1024px) {
+  .container {
+    width: 90%;
+  }
+  #header .header__box {
+    display: block;
+  }
+}
+
+/*# sourceMappingURL=media.css.map */
